@@ -4,5 +4,8 @@
   "description": "Deep transform JS object keys to camelCase",
   "main": "index.js",
   "author": "Irene Oppo <oppo.irene@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  }
 }
