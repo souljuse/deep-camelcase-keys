@@ -22,4 +22,4 @@ describe("camel case", function () {
         _loop_1(input, result);
     }
 });
-//# sourceMappingURL=camelcase.spec.js.map
+//# sourceMappingURL=camelCase.spec.js.map

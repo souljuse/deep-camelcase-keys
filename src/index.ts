@@ -6,7 +6,7 @@ const deepCamelize = (obj: Record<string, any>) => {
   }
 
   return Object.keys(obj).reduce(
-    (acc: Record<string, any> | undefined, key: string) => {
+    (acc: { [key: string]: any } | undefined, key: string) => {
       if (acc === undefined) {
         return acc;
       }
@@ -15,6 +15,7 @@ const deepCamelize = (obj: Record<string, any>) => {
 
       return acc;
     },
+
     {}
   );
 };
