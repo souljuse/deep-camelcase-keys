@@ -1,0 +1,8 @@
+{
+  "name": "deep-camelcase-keys",
+  "version": "1.0.0",
+  "description": "Deep transform JS object keys to camelCase",
+  "main": "index.js",
+  "author": "Irene Oppo <oppo.irene@gmail.com>",
+  "license": "MIT"
+}
