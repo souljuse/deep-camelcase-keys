@@ -1,6 +1,6 @@
 {
   "name": "deep-camelcase-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "0 dependencies deep transform object keys to camelcase",
   "author": "Irene Oppo <oppo.irene@gmail.com>",
   "license": "MIT",
@@ -20,9 +20,9 @@
     "prepare": "yarn build"
   },
   "devDependencies": {
+    "@types/deep-equal": "^1.0.1",
     "@types/jest": "^26.0.19",
     "@types/node": "^14.14.14",
-    "@types/deep-equal": "^1.0.1",
     "deep-equal": "^2.0.5",
     "jest": "^26.6.3",
     "rimraf": "^3.0.2",
