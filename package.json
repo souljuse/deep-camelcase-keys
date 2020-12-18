@@ -1,6 +1,6 @@
 {
   "name": "deep-camelcase-keys",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "0 dependencies deep transform object keys to camelcase",
   "author": "Irene Oppo <oppo.irene@gmail.com>",
   "license": "MIT",
