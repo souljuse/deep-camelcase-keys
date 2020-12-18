@@ -1,9 +1,5 @@
 # deep-camelcase-keys
 
-[![NPM version][npm-image]][npm-url]
-[![NPM downloads][downloads-image]][downloads-url]
-[![Bundle size][bundlephobia-image]][bundlephobia-url]
-
 > No dependencies, deeply convert object keys to camelcase
 
 ## Installation
@@ -19,9 +15,9 @@ yarn add camel-case
 ## Usage
 
 ```js
-import deepCamelCase from "deep-camelcase-keys";
+import deepCamelcase from "deep-camelcase-keys";
 
-deepCamelCase({
+deepCamelcase({
   foo_bar: {
     "baz--bar": "hello"
   }
